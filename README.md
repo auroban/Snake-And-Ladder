@@ -1,2 +1,2 @@
 # Snake-And-Ladder
-A small Snake and Ladder multiplayer game
+A small Snake and Ladder multi-player game
